@@ -1,0 +1,7 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/HP/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/HP/project_1/project_1.srcs/sim_1/new/pro_con_tb.v,1601058886,verilog,,,,top,,,,,,,,
+C:/Users/HP/project_1/project_1.srcs/sources_1/new/pro_con.v,1601058893,verilog,,C:/Users/HP/project_1/project_1.srcs/sim_1/new/pro_con_tb.v,,consumer;fifo;producer,,,,,,,,
